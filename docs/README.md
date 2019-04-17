@@ -1,5 +1,4 @@
 # Hello VuePress
-Yeas
-[Home](/)
 
-# 💩💩💩💩
+<Posts/>
+<Posts page="posts" />
