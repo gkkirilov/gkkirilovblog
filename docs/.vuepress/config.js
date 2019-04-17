@@ -2,7 +2,8 @@ module.exports = {
   title: '@gkkirilov blog',
   description: 'Just playing around! 🚀',
   themeConfig: {
-    nav: [{ text: 'Home', link: '/' }]
+    nav: [{ text: 'Home', link: '/' }],
+    nav: [{ text: 'Twitter', link: '/' }]
   },
   plugins: [
     '@vuepress/pwa',
