@@ -1,0 +1,12 @@
+{
+  "name": "gkkirlovBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@gkkirilov",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
