@@ -1,5 +1,5 @@
 ---
-image: /example-image.jpg
+image: 
 title: How to be successful by Sam Altman
 description: Just wanted to share this...
 date: 2019-1-25

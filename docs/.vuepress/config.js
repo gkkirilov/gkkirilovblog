@@ -1,12 +1,13 @@
 module.exports = {
   title: '@gkkirilov blog',
   description: 'Just playing around! 🚀',
+  head: [['link', { rel: 'icon', href: '/rocket.png' }]],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Twitter', link: 'https://twitter.com/gkkirilov' },
       { text: 'GitHub', link: 'https://github.com/gkkirilov' },
-      { text: 'About', link: '/about' },
+      { text: 'About', link: '/about' }
     ]
   },
 
