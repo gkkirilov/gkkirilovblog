@@ -6,7 +6,8 @@
           <img v-if="post.frontmatter.image" :src="$withBase(post.frontmatter.image)" alt="">
         </div>
         <h2>{{post.frontmatter.title}}</h2>
-        <p>{{post.frontmatter.description}}</p>
+        <!-- <p>{{post.frontmatter.description}}</p> -->
+        <br>
       </router-link>
     </div>
   </div>
