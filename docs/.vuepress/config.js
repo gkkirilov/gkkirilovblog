@@ -1,7 +1,7 @@
 module.exports = {
   title: '@gkkirilov blog',
   description: 'Just playing around! 🚀',
-  head: [['link', { rel: 'icon', href: '/rocket.png' }]],
+  head: [['link', { rel: 'icon', href: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/shocked-face-with-exploding-head_1f92f.png' }]],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
