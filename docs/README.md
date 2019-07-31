@@ -1,5 +1,5 @@
 # Hey 🎉
-Rule: Don't tell anybody about this
+Rule: Don't tell anybody about us
 
 <!-- <Posts/> -->
 <!-- <Posts page="posts" /> -->

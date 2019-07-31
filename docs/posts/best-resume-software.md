@@ -1,11 +1,12 @@
 ---
 image: /
-title: Best software for writing your resume
+title: Best software for creating your resume
 description: Looking through all the softwares for resumes
 date: 2019-7-31
 ---
+# Best software for creating your resume
 # The winner is: [resumake.io](https://resumake.io)
-### Runner ups ineedaresu.me and swiftcv.com
+### Runner ups [ineedaresu.me](https://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
 **I just have a few tips for writing your resume**
 
@@ -19,16 +20,16 @@ date: 2019-7-31
 
 ### Ok lets make a list of all the software that we are gonna check today
 
-# 1. cakeresume.com
+# 1. [cakeresume.com](https://cakeresume.com)
       ✔ import from pdf
       ✔ editable HTML with Bootstrap
 
       ✖ Puts their logo at the end of your resume
 
-# 2. standardresume.co
+# 2. [standardresume.co](https://standardresume.co)
       ✖ Returns server error/ not usable
 
-# 3. resume.io
+# 3. [resume.io](https://resume.io)
      ✔ Great first template
      ✔ Option to add cover letter
 
@@ -39,7 +40,7 @@ date: 2019-7-31
 
      ✖ Upsell site for VisualCV
 
-# 5. ineedaresu.me
+# 5. [ineedaresu.me](https://ineedaresu.me)
   This was actually my runner up for this list
 
      ✔ Free
@@ -47,7 +48,7 @@ date: 2019-7-31
 
      ✖ Can't rearrange
 
-# 6. swiftcv.com
+# 6. [swiftcv.com](https://swiftcv.com)
   This is my 3rd choice
 
      ✔ Free
@@ -58,7 +59,7 @@ date: 2019-7-31
      ✖ Can't rearrange
      ✖ Fixed accent color
 
-# 6. swiftcv.com
+# 6. [swiftcv.com](https://swiftcv.com)
   This is my 3rd choice. Great for first time resume makers
 
      ✔ Free
@@ -69,7 +70,7 @@ date: 2019-7-31
      ✖ Can't rearrange
      ✖ Fixed accent color
 
-# 7. myresumeformat.com
+# 7. [myresumeformat.com](https://myresumeformat.com)
   This is my 3rd choice. Great for first time resume makers
 
      ✔ 3 Free templates
