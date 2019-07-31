@@ -24,7 +24,7 @@ date: 2019-7-31
      ✔ Free
      ✔ Open Source
      ✔ Simple template
-     ✔ Arrangable sections
+     ✔ Arrangeable sections
      ✔ Information importable from JSON
 
 # 1. [cakeresume.com](https://cakeresume.com)
