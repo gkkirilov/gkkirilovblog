@@ -22,6 +22,7 @@ date: 2019-7-31
   🎉🎉🎉 Winner
 
      ✔ Free
+     ✔ Open Source
      ✔ Simple template
      ✔ Arrangable sections
      ✔ Information importable from JSON
