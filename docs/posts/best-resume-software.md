@@ -16,7 +16,7 @@ date: 2019-7-31
 ----------
 
 
-## If you are interested to see all the softwares I checked out read on 📖
+## If you are interested to see all the software I checked out, read on 📖
 
 # 0. [resumake.io](https://resumake.io)
   🎉🎉🎉 Winner
@@ -38,7 +38,7 @@ date: 2019-7-31
 
 # 3. [resume.io](https://resume.io)
      ✔ Great first template
-     ✔ Option to add cover letter
+     ✔ Option to add a cover letter
 
      ✖ Paid
 
@@ -67,7 +67,7 @@ date: 2019-7-31
      ✖ Fixed accent color
 
 # 7. [swiftcv.com](https://swiftcv.com)
-  This is my 3rd choice. Great for first time resume makers
+  This is my 3rd choice. Great for first-time resume makers
 
      ✔ Free
      ✔ Only 1 template
@@ -78,10 +78,10 @@ date: 2019-7-31
      ✖ Fixed accent color
 
 # 8. [myresumeformat.com](https://myresumeformat.com)
-  This is my 3rd choice. Great for first time resume makers
+  This is my 3rd choice. Great for first-time resume makers
 
      ✔ 3 Free templates
-     ✔ Great number of customizations
+     ✔ A great number of customizations
 
      ✖ Neither modern neither old school
 
