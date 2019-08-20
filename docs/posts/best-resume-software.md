@@ -6,7 +6,7 @@ date: 2019-7-31
 ---
 # Best software for creating your resume
 # The winner is: [resumake.io](https://resumake.io)
-### Runner ups [ineedaresu.me](https://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
+### Runner ups [ineedaresu.me](http://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
 **I just have a few tips for writing your resume**
 
