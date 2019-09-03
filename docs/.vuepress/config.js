@@ -33,7 +33,7 @@ module.exports = {
     "@vuepress/plugin-last-updated": true,
 
     "@vuepress/google-analytics": {
-      ga: "" // UA-00000000-0
+      ga: "UA-82262537-3'"
     },
     "@vuepress/blog": true,
     "@vuepress/back-to-top": true,
