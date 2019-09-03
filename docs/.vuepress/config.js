@@ -1,5 +1,5 @@
 module.exports = {
-  title: "@gkkirilov blog",
+  title: "gkkirilov blog",
   description: "Just playing around! 🚀",
   head: [
     [
