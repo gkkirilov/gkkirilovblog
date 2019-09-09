@@ -3,12 +3,15 @@ module.exports = {
   description: "Just playing around! 🚀",
   head: [
     [
-      "link",
-      {
-        rel: "icon",
-        href:
-          "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/153/shocked-face-with-exploding-head_1f92f.png"
-      }
+      ['link', { rel: 'icon', href: '/logo.png' }],
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
+      ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+      ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+      ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+      ['link', { rel: 'apple-touch-icon', href: '/icons/apple.png' }],
+      ['link', { rel: 'mask-icon', href: '/icons/logo.svg', color: '#3eaf7c' }],
+      ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+      ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ]
   ],
   themeConfig: {
@@ -20,7 +23,7 @@ module.exports = {
         text: "YouTube",
         link: "https://youtube.com/channel/UCyxPZRn94PPwDTsfejtqX2w"
       },
-      { text: "About", link: "/about" }
+      { text: "About", link: "/about/" }
     ]
   },
 
@@ -28,7 +31,13 @@ module.exports = {
     "@vuepress/search": {
       test: "/posts/"
     },
-    "@vuepress/pwa": true,
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: {
+        message: "New content is available.",
+        buttonText: "Refresh"
+      }
+    },
     "@vuepress/plugin-nprogress": true,
     "@vuepress/plugin-last-updated": true,
 
