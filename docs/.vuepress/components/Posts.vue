@@ -3,11 +3,14 @@
     <div class="post" v-for="post in posts">
       <router-link :to="post.path">
         <div>
-          <img v-if="post.frontmatter.image" :src="$withBase(post.frontmatter.image)" alt="">
+          <img
+            v-if="post.frontmatter.image"
+            :src="$withBase(post.frontmatter.image)"
+            alt=""
+          />
         </div>
-        <h2>{{post.frontmatter.title}}</h2>
-        <!-- <p>{{post.frontmatter.description}}</p> -->
-        <br>
+        <h2>{{ post.frontmatter.title }}</h2>
+        <br />
       </router-link>
     </div>
   </div>

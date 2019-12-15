@@ -1,6 +1,6 @@
 ---
 image: /
-title: Stop learning and focus on doing
+title: Stop learning
 description: This is the example description for our first post.
 date: 2019-3-11
 ---

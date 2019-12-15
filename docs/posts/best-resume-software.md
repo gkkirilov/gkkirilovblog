@@ -1,10 +1,10 @@
 ---
 image: /
-title: Best software for creating your resume
-description: Looking through all the softwares for resumes
+title: Best free software for creating your resume
+description: Looking through all the free softwares for resumes
 date: 2019-7-31
 ---
-# Best software for creating your resume
+# Best free software for creating your resume
 # The winner is: [resumake.io](https://resumake.io)
 ### Runner ups [ineedaresu.me](http://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
