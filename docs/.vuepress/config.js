@@ -23,6 +23,10 @@ module.exports = {
         text: "YouTube",
         link: "https://youtube.com/channel/UCyxPZRn94PPwDTsfejtqX2w"
       },
+      {
+        text: "Email",
+        link: "mailto:me@gkkirilov.com"
+      },
       { text: "About", link: "/about/" }
     ]
   },
