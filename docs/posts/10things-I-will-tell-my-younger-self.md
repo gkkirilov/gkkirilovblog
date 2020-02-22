@@ -8,20 +8,20 @@ date: 2019-12-16
 - Strive for independence in your personal life and connection in your love life
 - Start lifting
 - Watch what you eat
-- Get enought sleep appropriate for your age
+- Get enough sleep appropriate for your age
 - Try a lot of new activities/experiences
 - Make money no matter how old you are
 - Pick a topic and start reading
 - Make your life a game where you level up until you find your purpose
-- - 6 things to level up:
-- - health
-- - relationships
-- - mind
-- - physices
-- - experiences
-- - physical form
+  - 6 things to level up:
+  - health
+  - relationships
+  - mind
+  - physical strength
+  - experiences
+  - physical form
 - Become better at tracking your progress (I use Notion)
-- Start making habbits
+- Start making habits
 - Wake up with an alarm
 - Stop playing video games
-- Extra to the new generation: stop picking up the phone every minute, you need to get some boredom time, to give your brain to create new ideas
+- Extra to the new generation: stop picking up the phone every minute, you need to get some boredom time, to give your brain time to create new ideas
