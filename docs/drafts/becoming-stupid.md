@@ -17,4 +17,4 @@ They stop thinking from base principal basis there is too many people that rely 
 
 Read more on the topic [First Principle Basis](https://gkkirilov.com/firstprinciplebasis)
 
-
+The fear of becoming stupid
