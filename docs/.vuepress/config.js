@@ -1,5 +1,5 @@
 module.exports = {
-  title: "gkkirilov blog",
+  title: "gkkirilov",
   description: "Just playing around! 🚀",
   head: [
     [
@@ -14,7 +14,10 @@ module.exports = {
       ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ]
   ],
+  theme: 'default-prefers-color-scheme',
   themeConfig: {
+    defaultTheme: 'dark',
+
     nav: [
       { text: "Home", link: "/" },
       { text: "Twitter", link: "https://twitter.com/gkkirilov" },
@@ -28,7 +31,8 @@ module.exports = {
         link: "mailto:me@gkkirilov.com"
       },
       { text: "About", link: "/about/" }
-    ]
+    ],
+    smoothScroll: true
   },
 
   plugins: {

@@ -1,5 +1,5 @@
 
 # Hey 🎉
-Rules: Surf the code 🏄‍♀️ and don't tell anybody about us 🙊
+`Rules: Surf the code 🏄‍♀️ and have fun 🤯`
 
 <Posts page="posts"/>
