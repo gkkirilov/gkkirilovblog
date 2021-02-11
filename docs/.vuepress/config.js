@@ -8,9 +8,10 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/icons/apple.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/logo.svg', color: '#3eaf7c' }],
+    ['link', { rel: 'mask-icon', href: '/icons/logo.png', color: '#3eaf7c' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { name: 'og:image', content: '/icons/logo.png' }],
   ],
   theme: 'default-prefers-color-scheme',
   themeConfig: {
@@ -20,13 +21,13 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Twitter", link: "https://twitter.com/gkkirilov" },
       { text: "GitHub", link: "https://github.com/gkkirilov" },
-      {
-        text: "YouTube",
-        link: "https://youtube.com/channel/UCyxPZRn94PPwDTsfejtqX2w"
-      },
+      // {
+      //   text: "YouTube",
+      //   link: "https://youtube.com/channel/UCyxPZRn94PPwDTsfejtqX2w"
+      // },
       {
         text: "Email",
-        link: "mailto:me@gkkirilov.com"
+        link: "mailto:gkkirilov@gmail.com"
       },
       { text: "About", link: "/about/" }
     ],
