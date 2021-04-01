@@ -12,6 +12,20 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['meta', { name: 'og:image', content: '/icons/logo.png' }],
+    [
+      'script',
+      {
+        async: true,
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-G0GL5Z1J1R',
+      },
+    ],
+    [
+      'script',
+      {},
+      [
+        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-G0GL5Z1J1R');",
+      ],
+    ],
   ],
   theme: 'default-prefers-color-scheme',
   themeConfig: {
@@ -48,9 +62,6 @@ module.exports = {
     "@vuepress/plugin-nprogress": true,
     "@vuepress/plugin-last-updated": true,
 
-    "@vuepress/google-analytics": {
-      ga: "UA-82262537-3'"
-    },
     "@vuepress/blog": true,
     "@vuepress/back-to-top": true,
     sitemap: {
