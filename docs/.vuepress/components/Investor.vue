@@ -17,7 +17,9 @@
       <!-- <h3>You failed</h3> -->
       <img src="/noinvestment.png" alt="" />
     </div>
-    <KeyboardPressed v-on:keyup="keyboardEvent"></KeyboardPressed>
+    <ClientOnly>
+      <KeyboardPressed v-on:keyup="keyboardEvent"></KeyboardPressed>
+    </ClientOnly>
   </div>
 </template>
 <script>
