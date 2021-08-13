@@ -35,10 +35,10 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Twitter", link: "https://twitter.com/gkkirilov" },
       { text: "GitHub", link: "https://github.com/gkkirilov" },
-      // {
-      //   text: "YouTube",
-      //   link: "https://youtube.com/channel/UCyxPZRn94PPwDTsfejtqX2w"
-      // },
+      {
+        text: "Investor Simulator",
+        link: "/investor/"
+      },
       {
         text: "Email",
         link: "mailto:gkkirilov@gmail.com"
@@ -50,15 +50,15 @@ module.exports = {
 
   plugins: {
     "@vuepress/search": {
-      test: "/posts/"
+      test: "/posts/" // Path to search on
     },
-    '@vuepress/pwa': {
-      serviceWorker: true,
-      updatePopup: {
-        message: "New content is available.",
-        buttonText: "Refresh"
-      }
-    },
+    // '@vuepress/pwa': {
+    //   serviceWorker: true,
+    //   updatePopup: {
+    //     message: "New content is available.",
+    //     buttonText: "Refresh"
+    //   }
+    // },
     "@vuepress/plugin-nprogress": true,
     "@vuepress/plugin-last-updated": true,
 

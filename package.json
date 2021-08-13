@@ -10,7 +10,6 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^1.1.1",
     "@vuepress/plugin-back-to-top": "^1.8.0",
     "@vuepress/plugin-blog": "^1.9.4",
     "@vuepress/plugin-google-analytics": "^1.8.2",
@@ -24,6 +23,6 @@
   },
   "dependencies": {
     "vuepress-plugin-robots": "^1.0.1",
-    "vuepress-theme-default-prefers-color-scheme": "^1.1.2"
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
   }
 }
