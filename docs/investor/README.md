@@ -1,2 +1,5 @@
+---
+title: Investor Simulator
+---
 
 <Investor />
