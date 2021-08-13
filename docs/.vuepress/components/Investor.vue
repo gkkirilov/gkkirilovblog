@@ -167,7 +167,9 @@ export default {
 .question {
   text-align: center;
   margin-top: 5rem;
+  height: 100px;
 }
+
 .timer {
   margin-top: 4rem;
   text-align: center;
