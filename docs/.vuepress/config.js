@@ -29,7 +29,7 @@ module.exports = {
   ],
   theme: 'default-prefers-color-scheme',
   themeConfig: {
-    defaultTheme: 'dark',
+    overrideTheme: 'dark',
 
     nav: [
       { text: "Home", link: "/" },
