@@ -6,6 +6,8 @@ date: 2019-3-11
 ---
 # Stop learning and focus on doing
 
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
 I don't wanna write blog post which is going to waste you 10 min.
 
 You have learned enough go try it before reading the next book on self improvement or dating or whatever it is, do:learn ration should be at least 1:1.

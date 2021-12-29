@@ -5,6 +5,8 @@ description:
 date: 2018-12-31
 ---
 
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
 # How to get rich by Naval Ravikant
 
 1. Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
@@ -26,7 +28,7 @@ date: 2018-12-31
 17. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.
 18. Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.
 19. The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.
-20. “Give me a lever long enough, and a place to stand, and I will move the earth.”   
+20. “Give me a lever long enough, and a place to stand, and I will move the earth.”
     \- Archimedes
 21. Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
 22. Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.

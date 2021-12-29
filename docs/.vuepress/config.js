@@ -32,38 +32,16 @@ module.exports = {
     overrideTheme: 'dark',
 
     nav: [
-      { text: "Home", link: "/" },
       { text: "Twitter", link: "https://twitter.com/gkkirilov" },
       { text: "GitHub", link: "https://github.com/gkkirilov" },
-      {
-        text: "Investor Simulator",
-        link: "/investor/"
-      },
-      {
-        text: "Email",
-        link: "mailto:gkkirilov@gmail.com"
-      },
       { text: "About", link: "/about/" }
     ],
     smoothScroll: true
   },
 
   plugins: {
-    "@vuepress/search": {
-      test: "/posts/" // Path to search on
-    },
-    // '@vuepress/pwa': {
-    //   serviceWorker: true,
-    //   updatePopup: {
-    //     message: "New content is available.",
-    //     buttonText: "Refresh"
-    //   }
-    // },
     "@vuepress/plugin-nprogress": true,
-    "@vuepress/plugin-last-updated": true,
-
     "@vuepress/blog": true,
-    "@vuepress/back-to-top": true,
     sitemap: {
       hostname: "https://gkkirilov.com"
     },

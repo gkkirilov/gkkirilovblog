@@ -8,6 +8,8 @@ date: 2019-7-31
 # The winner is: [resumake.io](https://resumake.io)
 ### Runner ups [ineedaresu.me](http://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
 **I just have a few tips for writing your resume**
 
 - ✅ Move the skills section before work experience - recruiters want to see that you have at least some matching skills from the job description in the first 5 seconds

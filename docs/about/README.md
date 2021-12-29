@@ -3,7 +3,7 @@
 ## My name is Georgi Kirilov
 
 
-### 2021 Feb: **Passionate about products, startups and physical challanges**
+### 2021 Feb: **Passionate about products, startups and physical challenges**
 
 
 ### 2020: **Passionate about coding, startups and VS Code**

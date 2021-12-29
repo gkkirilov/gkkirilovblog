@@ -1,10 +1,11 @@
 ---
-image: /
 title: 12 things I would tell my younger self
-description: I share the 12 most common things I want to tell my younger self
 date: 2019-12-16
 ---
 # 12 things I would tell my younger self to pick up to start
+
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
 - Strive for independence in your personal life and connection in your love life
 - Start lifting
 - Watch what you eat

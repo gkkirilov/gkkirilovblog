@@ -1,5 +1,10 @@
 
-# Hey 🎉
-`Rules: Surf the code 🏄‍♀️ and have fun 🤯`
+## Essays
 
-<Posts page="posts"/>
+<Posts page="essays"/>
+
+## [Investor Simulator](/investor)
+
+## Blog
+
+<Posts page="blog"/>

@@ -1,6 +1,9 @@
 ---
-image: /
-title: Title
-description: Description
-date: 2020-1-30
+title: Example Title
+date: 2022-1-30
 ---
+# Title
+
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
+content

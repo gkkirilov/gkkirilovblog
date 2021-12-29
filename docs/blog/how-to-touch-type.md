@@ -4,7 +4,11 @@ title: How to touch type
 description: Guide how to learn to touch type in 1 month or less ⌨
 date: 2019-12-15
 ---
+
 # How to touch type
+
+`{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
+
 0. This proces is not that fast you will need at least 2 weeks to get good but it is worth it!!!
 1. Go to [ratatype](https://www.ratatype.com/) or any other site that teaches the basics of touch typing.
 2. Don't go for speed!!!
