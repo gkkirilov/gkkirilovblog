@@ -5,7 +5,7 @@ description: Looking through all the free softwares for resumes
 date: 2019-7-31
 ---
 # Best free software for creating your resume
-# The winner is: [resumake.io](https://resumake.io)
+# The winner is: [cakeresume.com](https://cakeresume.com)
 ### Runner ups [ineedaresu.me](http://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
 `{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
@@ -20,20 +20,22 @@ date: 2019-7-31
 
 ## If you are interested to see all the software I checked out, read on 📖
 
-# 0. [resumake.io](https://resumake.io)
-  🎉🎉🎉 Winner
 
+# 0. [cakeresume.com](https://cakeresume.com)
+      🎉🎉🎉 Winner
+
+      ✔ easy to use
+      ✔ import from pdf
+      ✔ editable HTML with Bootstrap
+
+      ✖ Puts their logo at the end of your resume
+
+# 1. [resumake.io](https://resumake.io)
      ✔ Free
      ✔ Open Source
      ✔ Simple template
      ✔ Arrangeable sections
      ✔ Information importable from JSON
-
-# 1. [cakeresume.com](https://cakeresume.com)
-      ✔ import from pdf
-      ✔ editable HTML with Bootstrap
-
-      ✖ Puts their logo at the end of your resume
 
 # 2. [standardresume.co](https://standardresume.co)
       ✖ Returns server error/ not usable
