@@ -105,6 +105,11 @@ export default {
         "What do you understand about your users?",
         "Would you relocate to Silicon Valley?",
         "What's an impressive thing you have done?",
+        "Of all the things you could work on, why this?",
+        "How does this eventually become a $100 billion business?",
+        "What do you understand about this that others don’t?",
+        "What progress have you made in the last week?",
+        "What are you really great at?",
         "done",
       ],
       tips: [
