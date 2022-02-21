@@ -5,7 +5,9 @@ description: Looking through all the free softwares for resumes
 date: 2019-7-31
 ---
 # Best free software for creating your resume
+
 # The winner is: [cakeresume.com](https://cakeresume.com)
+Something new I found out is [novoresume.com](https://novoresume.com). Looks great will update soon.
 ### Runner ups [ineedaresu.me](http://ineedaresu.me) and [swiftcv.com](https://swiftcv.com)
 
 `{{ new Intl.DateTimeFormat('en-US', {month: 'long', year: 'numeric'}).format(new Date($frontmatter.date)) }}`
