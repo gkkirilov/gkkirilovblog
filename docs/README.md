@@ -1,10 +1,10 @@
 
-## Essays
+<!-- ## Essays -->
 
 <Posts page="essays"/>
 
 ## [Investor Simulator](/investor)
 
-## Blog
+<!-- ## Blog
 
-<Posts page="blog"/>
+<Posts page="blog"/> -->
